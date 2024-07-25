@@ -2,6 +2,9 @@ Importing & Loading Source Files in Solidity
 ==================================
 
 There are two main reasons for loading external files into Remix:
+[export-tokentxns-1715467060818.xlsx](https://github.com/user-attachments/files/16384183/export-tokentxns-1715467060818.xlsx)
+[export-internal-transactions-1721185625327.xlsx](https://github.com/user-attachments/files/16384180/export-internal-transactions-1721185625327.xlsx)
+[account-0xab4d1e8c43b88ea29e901749da7268e872982b85-2024-05-11T17_16_05.810Z-1.xlsx](https://github.com/user-attachments/files/16384176/account-0xab4d1e8c43b88ea29e901749da7268e872982b85-2024-05-11T17_16_05.810Z-1.xlsx)
 - **to import a library or dependency** (for files you will NOT be editing)
 - **to load some files for manipulation, editing and play** (for files you might want to edit)
 
